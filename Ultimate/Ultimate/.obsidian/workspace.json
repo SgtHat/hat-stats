@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "26c681bfa1411089",
+    "type": "split",
+    "children": [
+      {
+        "id": "903885bd067e1697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a81832b3b7ef4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tournaments/Toms/Games/Grut/Grut.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d418c7989ceb17",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81099bba046293e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb72f98fe3fa0ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45a44f21c03e9271",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70f0b52490d91f88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "524b689dfa6480a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aac72bf21cf9629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec07b095d8ca927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tournaments/Toms/Games/Grut/Grut.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53c075a88a113d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tournaments/Toms/Games/Grut/Grut.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1c2bfb0bbd0de90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a22034816a5ef06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tournaments/Toms/Games/Grut/Grut.md"
+              }
+            }
+          },
+          {
+            "id": "4e5eb02d496a6ebb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "10a81832b3b7ef4d",
+  "lastOpenFiles": [
+    "O-scores.json",
+    "//O-scores.json",
+    "Tournaments/Toms/Games/Grut/Point 8.md",
+    "Tournaments/Toms/Games/Grut/Point 7.md",
+    "Tournaments/Toms/Games/Grut/Point 3.md",
+    "Tournaments/Toms/Games/Grut/Point 4.md",
+    "Tournaments/Toms/Games/Grut/Point 2.md",
+    "Tournaments/Toms/Games/Grut/Point 1.md",
+    "Tournaments/Toms/Games/Grut/Grut.md",
+    "Tournaments/Toms/Games/Grut/Point 21.md",
+    "Tournaments/Toms/Games/Grut/Point 20.md",
+    "Tournaments/Toms/Games/Grut/Point 19.md",
+    "Tournaments/Toms/Games/Grut/Point 18.md",
+    "Tournaments/Toms/Games/Grut/Point 17.md",
+    "Tournaments/Toms/Games/Grut/Point 16.md",
+    "Tournaments/Toms/Games/Grut/Point 15.md",
+    "Tournaments/Toms/Games/Grut/Point 14.md",
+    "Tournaments/Toms/Games/Grut/Point 13.md",
+    "Tournaments/Toms/Games/Grut/Point 12.md",
+    "Tournaments/Toms/Games/Grut/Point 11.md",
+    "Tournaments/Toms/Games/Grut/Point 10.md",
+    "Tournaments/Toms/Games/Grut/Point 9.md",
+    "Tournaments/Toms/Games/Grut/Point 6.md",
+    "Tournaments/Toms/Games/Grut/Point 5.md",
+    "Tournaments/Toms/Games/Games.md",
+    "Tournaments/Toms/Toms.md",
+    "Tournaments/Euro Elite/Euro Elite.md",
+    "Playbook/Defence/Zones",
+    "Playbook/Offence",
+    "Playbook/Defence",
+    "Playbook",
+    "z-Templates/Pitch.png.0.pdnSave",
+    "z-Templates/Pitch.png",
+    "Tournaments/Toms/Games/Grut",
+    "Tournaments/Toms/Games/Clapham",
+    "Ultimate/Tournaments/Toms/Games/Clapham",
+    "Ultimate/Tournaments/Toms/Games"
+  ]
+}

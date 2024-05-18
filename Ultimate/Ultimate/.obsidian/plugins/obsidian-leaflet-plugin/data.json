@@ -1,0 +1,1773 @@
+{
+  "mapMarkers": [
+    {
+      "id": "grut_o_scores",
+      "locked": true,
+      "lastAccessed": 1716060130978,
+      "markers": [
+        {
+          "id": "ID_fb28286aaaf8",
+          "type": "Throw",
+          "loc": [
+            615.8125,
+            353
+          ],
+          "link": "Point 1",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ethan Throw",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_196aba9af80b",
+          "type": "Score",
+          "loc": [
+            235.8125,
+            167
+          ],
+          "link": "Point 1",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sweetnam Catch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9bbe9082868",
+          "type": "Throw",
+          "loc": [
+            231.8125,
+            321
+          ],
+          "link": "Point 3",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Call Throw",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a5b0a2be9c9",
+          "type": "Score",
+          "loc": [
+            517.8125,
+            139
+          ],
+          "link": "Point 3",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Snake Score",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28090b48e8ba",
+          "type": "Throw",
+          "loc": [
+            213.8125,
+            347
+          ],
+          "link": "Point 5",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "TB Hammer to Cody",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9af8b9ba9b78",
+          "type": "Score",
+          "loc": [
+            251.8125,
+            55
+          ],
+          "link": "Point 5",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cody Receive from TB",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38bb891aca89",
+          "type": "Throw",
+          "loc": [
+            607.8125,
+            251
+          ],
+          "link": "Point 7",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sweetnam pop to Cody",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49c96a1a897a",
+          "type": "Score",
+          "loc": [
+            609.8125,
+            115
+          ],
+          "link": "Point 7",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cody Score from Sweet\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9f83928d9c8",
+          "type": "Throw",
+          "loc": [
+            531.8125,
+            635
+          ],
+          "link": "Point 9",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Kyme huck to cody",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08aa8b39f81a",
+          "type": "Throw",
+          "loc": [
+            577.8125,
+            189
+          ],
+          "link": "Point 9",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cody catch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aadb0ae9cb0a",
+          "type": "Score",
+          "loc": [
+            597.8125,
+            153
+          ],
+          "link": "Point 9",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pop to snake",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea3a5968a808",
+          "type": "Throw",
+          "loc": [
+            429.8125,
+            373
+          ],
+          "link": "Point 11",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ethan inside upfield to kolt",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58f829dada19",
+          "type": "Throw",
+          "loc": [
+            167.8125,
+            245
+          ],
+          "link": "Point 11",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Kolt little leader to Ed for score",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a19988a48a8",
+          "type": "Score",
+          "loc": [
+            177.8125,
+            85
+          ],
+          "link": "Point 11",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ed score",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca6a08399b7a",
+          "type": "Throw",
+          "loc": [
+            44,
+            490
+          ],
+          "link": "Point 13",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            64225.28,
+            -9011.2
+          ],
+          "description": "Ed to sweet inside",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49fb48cbbafa",
+          "type": "Throw",
+          "loc": [
+            98,
+            316
+          ],
+          "link": "Point 13",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            41418.752,
+            -20070.4
+          ],
+          "description": "sweet for an easy shot to snake",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38d98abb18a8",
+          "type": "Score",
+          "loc": [
+            34,
+            122
+          ],
+          "link": "Point 13",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            15990.784,
+            -6963.2
+          ],
+          "description": "SNAKKE",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abcbbaa98948",
+          "type": "Throw",
+          "loc": [
+            57.8125,
+            547
+          ],
+          "link": "Point 16",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cody to Cal",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e84a38ca0afa",
+          "type": "Throw",
+          "loc": [
+            53.8125,
+            691
+          ],
+          "link": "Point 16",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cal sitter to Sweet",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_baba4adb0888",
+          "type": "Score",
+          "loc": [
+            49.8125,
+            971
+          ],
+          "link": "Point 16",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sweet with easy lead catch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a5a485a4b1a",
+          "type": "Throw",
+          "loc": [
+            13.8125,
+            425
+          ],
+          "link": "Point 18",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "TB to snake leading huck with trailing defender",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbf9ea7bf93a",
+          "type": "Score",
+          "loc": [
+            75.8125,
+            927
+          ],
+          "link": "Point 18",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2939e94939f8",
+          "type": "Throw",
+          "loc": [
+            340,
+            722
+          ],
+          "link": "Point 20",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            94633.984,
+            -69632
+          ],
+          "description": "cody to snake",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_183bca58d979",
+          "type": "Throw",
+          "loc": [
+            415.8125,
+            327
+          ],
+          "link": "Sweetnam huck to Cody",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbf9986828d9",
+          "type": "Score",
+          "loc": [
+            435.8125,
+            897
+          ],
+          "link": "Point 20",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "cody to snake",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#a818dc",
+          "vertices": [
+            {
+              "lat": 213.8125,
+              "lng": 347,
+              "id": "ID_3b08e97b0808",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_28090b48e8ba"
+              }
+            },
+            {
+              "lat": 251.8125,
+              "lng": 55,
+              "id": "ID_69e86968b849",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_9af8b9ba9b78"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 607.8125,
+              "lng": 251,
+              "id": "ID_2b682b299a6a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_38bb891aca89"
+              }
+            },
+            {
+              "lat": 609.8125,
+              "lng": 115,
+              "id": "ID_48aad888e9a9",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_49c96a1a897a"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#dc1818",
+          "vertices": [
+            {
+              "lat": 531.8125,
+              "lng": 635,
+              "id": "ID_887beb48db7a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_a9f83928d9c8"
+              }
+            },
+            {
+              "lat": 577.8125,
+              "lng": 189,
+              "id": "ID_49bbe84849d8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_08aa8b39f81a"
+              }
+            },
+            {
+              "lat": 597.8125,
+              "lng": 153,
+              "id": "ID_e97a1ba9c8ca",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_aadb0ae9cb0a"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#39dc18",
+          "vertices": [
+            {
+              "lat": 429.8125,
+              "lng": 373,
+              "id": "ID_0b6af9fa1b6b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_ea3a5968a808"
+              }
+            },
+            {
+              "lat": 167.8125,
+              "lng": 245,
+              "id": "ID_9a4b89bb7a8a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_58f829dada19"
+              }
+            },
+            {
+              "lat": 177.8125,
+              "lng": 85,
+              "id": "ID_39688bfb4a88",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_3a19988a48a8"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 44,
+              "lng": 490,
+              "id": "ID_88e998aabb8b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_ca6a08399b7a"
+              }
+            },
+            {
+              "lat": 98,
+              "lng": 316,
+              "id": "ID_0bcb19fa5a0a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_49fb48cbbafa"
+              }
+            },
+            {
+              "lat": 34,
+              "lng": 122,
+              "id": "ID_d9caba091ada",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_38d98abb18a8"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 57.8125,
+              "lng": 547,
+              "id": "ID_e85809c87b69",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_abcbbaa98948"
+              }
+            },
+            {
+              "lat": 53.8125,
+              "lng": 691,
+              "id": "ID_1a0a9a3809d8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_e84a38ca0afa"
+              }
+            },
+            {
+              "lat": 49.8125,
+              "lng": 971,
+              "id": "ID_eadada18badb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_baba4adb0888"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 13.8125,
+              "lng": 425,
+              "id": "ID_991b6a499a89",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_0a5a485a4b1a"
+              }
+            },
+            {
+              "lat": 75.8125,
+              "lng": 927,
+              "id": "ID_dbbaf9c88a58",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_fbf9ea7bf93a"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#2db9a8",
+          "vertices": [
+            {
+              "lat": 415.8125,
+              "lng": 327,
+              "id": "ID_3ac829a96a68",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_183bca58d979"
+              }
+            },
+            {
+              "lat": 340,
+              "lng": 722,
+              "id": "ID_f9f91bf86b1a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_2939e94939f8"
+              }
+            },
+            {
+              "lat": 435.8125,
+              "lng": 897,
+              "id": "ID_e8bbfb881939",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_cbf9986828d9"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 615.8125,
+              "lng": 353,
+              "id": "ID_fa592a8aaaea",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_fb28286aaaf8"
+              }
+            },
+            {
+              "lat": 235.8125,
+              "lng": 167,
+              "id": "ID_4998ca6b5a2b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_196aba9af80b"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 231.8125,
+              "lng": 321,
+              "id": "ID_29c83af9fb28",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_d9bbe9082868"
+              }
+            },
+            {
+              "lat": 517.8125,
+              "lng": 139,
+              "id": "ID_a8fa7beafad8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_9a5b0a2be9c9"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Tournaments/Toms/Games/Grut/Grut.md"
+      ]
+    },
+    {
+      "id": "grut_d_scores",
+      "lastAccessed": 1716060130978,
+      "markers": [
+        {
+          "id": "ID_799ac9bafa4b",
+          "type": "Throw",
+          "loc": [
+            49,
+            641
+          ],
+          "link": "Point 14",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Open side shot down the line to a wide open Boz",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8f93a0ba958",
+          "type": "Score",
+          "loc": [
+            63,
+            889
+          ],
+          "link": "Point 14",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bozy burner boy.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a68dbe94898",
+          "type": "Throw",
+          "loc": [
+            227.68838354206832,
+            337.9970414071698
+          ],
+          "link": "Point 21",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Rhod to Pepe\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ab7a6b2a59",
+          "type": "Score",
+          "loc": [
+            72.12489168102785,
+            142.83556979968262
+          ],
+          "link": "Point 21",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nice little jink to the corner makes for an easy throw to pepe",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 49,
+              "lng": 641,
+              "id": "ID_8938eb4bd958",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_799ac9bafa4b"
+              }
+            },
+            {
+              "lat": 63,
+              "lng": 889,
+              "id": "ID_38ba2a6bdbba",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_d8f93a0ba958"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 227.68838354206832,
+              "lng": 337.9970414071698,
+              "id": "ID_184b39d8dae8",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_1a68dbe94898"
+              }
+            },
+            {
+              "lat": 72.12489168102785,
+              "lng": 142.83556979968262,
+              "id": "ID_d95a4899abba",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_a9ab7a6b2a59"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Tournaments/Toms/Games/Grut/Grut.md"
+      ]
+    },
+    {
+      "id": "grut_turns",
+      "lastAccessed": 1716060130979,
+      "markers": [
+        {
+          "id": "ID_785b8839d868",
+          "type": "Throw",
+          "loc": [
+            401.53125,
+            709
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Penny too far for Turner. 26",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a84a3b38fa7b",
+          "type": "Event",
+          "loc": [
+            592.1875,
+            897
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Throw too far for a hesitant turner - 26",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28d819f9c86a",
+          "type": "Throw",
+          "loc": [
+            533.53125,
+            811
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Seb Handblocked after 40,000 fakes",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a8b48284b19",
+          "type": "Event",
+          "loc": [
+            601.53125,
+            863
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Handblocked on shot to endzone - 29",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18e9fbf83bf8",
+          "type": "Throw",
+          "loc": [
+            414.1875,
+            257
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Turner bad choice",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb49fab858ab",
+          "type": "Event",
+          "loc": [
+            556.1875,
+            591
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Seb can't save it.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a879b87aea3a",
+          "type": "Throw",
+          "loc": [
+            298.1875,
+            667
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Beavan hammer to Turner. 29",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_883b680a08c9",
+          "type": "Event",
+          "loc": [
+            566.1875,
+            897
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Turner drops hammer, was a bit shit tbf.\n29",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebca1809f95b",
+          "type": "Throw",
+          "loc": [
+            72.1875,
+            421
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "beavan throws to space. probs shouldn't have.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1af93b0ba92a",
+          "type": "Event",
+          "loc": [
+            186.1875,
+            511
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Penny tries to save, cannot.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9afa89c9ca6a",
+          "type": "Throw",
+          "loc": [
+            151.53125,
+            405
+          ],
+          "link": "Point 16",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sweetnam deep to Ethan.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab79794abaa8",
+          "type": "O Turn",
+          "loc": [
+            338,
+            806
+          ],
+          "link": "Point 16",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            105644.032,
+            -69222.4
+          ],
+          "description": "Ethan tries to catch with his wrists",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 401.53125,
+              "lng": 709,
+              "id": "ID_295939f9285b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_785b8839d868"
+              }
+            },
+            {
+              "lat": 592.1875,
+              "lng": 897,
+              "id": "ID_788a2b2b8929",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_a84a3b38fa7b"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 533.53125,
+              "lng": 811,
+              "id": "ID_9a6a598b7a0b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_28d819f9c86a"
+              }
+            },
+            {
+              "lat": 601.53125,
+              "lng": 863,
+              "id": "ID_6b2899185a7b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_4a8b48284b19"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 401.53125,
+              "lng": 709,
+              "id": "ID_0ba82b39e93a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_785b8839d868"
+              }
+            },
+            {
+              "lat": 592.1875,
+              "lng": 897,
+              "id": "ID_79cbd87a0a99",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_a84a3b38fa7b"
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#2a4aac",
+          "vertices": [
+            {
+              "lat": 414.1875,
+              "lng": 257,
+              "id": "ID_1ad919a8b988",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_18e9fbf83bf8"
+              }
+            },
+            {
+              "lat": 556.1875,
+              "lng": 591,
+              "id": "ID_3959cbe9aaeb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_fb49fab858ab"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 298.1875,
+              "lng": 667,
+              "id": "ID_89ebc85abb49",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_a879b87aea3a"
+              }
+            },
+            {
+              "lat": 566.1875,
+              "lng": 897,
+              "id": "ID_9aba79eb3878",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_883b680a08c9"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 72.1875,
+              "lng": 421,
+              "id": "ID_6a0bfb9a6a9a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_ebca1809f95b"
+              }
+            },
+            {
+              "lat": 186.1875,
+              "lng": 511,
+              "id": "ID_e96ab8896918",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_1af93b0ba92a"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#ac2a2a",
+          "vertices": [
+            {
+              "lat": 151.53125,
+              "lng": 405,
+              "id": "ID_289aebeb4beb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_9afa89c9ca6a"
+              }
+            },
+            {
+              "lat": 338,
+              "lng": 806,
+              "id": "ID_28a898796bd9",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_ab79794abaa8"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Tournaments/Toms/Games/Grut/Grut.md"
+      ]
+    },
+    {
+      "id": "grut_ds",
+      "lastAccessed": 1716060130979,
+      "markers": [
+        {
+          "id": "ID_e939aad9a8ba",
+          "type": "Throw",
+          "loc": [
+            571.375,
+            339
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Throw to endzone from grut",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_897a3aa85939",
+          "type": "D",
+          "loc": [
+            593.375,
+            129
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Rollow interception",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e88b6b9ab81a",
+          "type": "Throw",
+          "loc": [
+            620.71875,
+            823
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Throw from start to inside, turner intercepts  - 27",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d88a68fb8a49",
+          "type": "D",
+          "loc": [
+            554.71875,
+            833
+          ],
+          "link": "Point 8",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Turner Intercepts - 27",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8fa486aaa7b",
+          "type": "Throw",
+          "loc": [
+            30.71875,
+            479
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Grut throw down line",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bd86878489a",
+          "type": "D",
+          "loc": [
+            28.71875,
+            163
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Rollo covers ground from center to get D",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_693a4a89a98a",
+          "type": "Throw",
+          "loc": [
+            32,
+            538
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            70516.736,
+            -6553.6
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a08287a5898",
+          "type": "D",
+          "loc": [
+            524.71875,
+            173
+          ],
+          "link": "Point 12",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Rollo intercepts again",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_487809abb9b8",
+          "type": "Throw",
+          "loc": [
+            100.71875,
+            507
+          ],
+          "link": "Point 14",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Throw too hard for player to catch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daeba8797bd9",
+          "type": "Event",
+          "loc": [
+            378.71875,
+            505
+          ],
+          "link": "Point 14",
+          "layer": "%5B%5BPitch.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Just good strong D from Chev",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 571.375,
+              "lng": 339,
+              "id": "ID_4939a98acab9",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_e939aad9a8ba"
+              }
+            },
+            {
+              "lat": 593.375,
+              "lng": 129,
+              "id": "ID_f979db785a3b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_897a3aa85939"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 620.71875,
+              "lng": 823,
+              "id": "ID_ab991aabcb68",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_e88b6b9ab81a"
+              }
+            },
+            {
+              "lat": 554.71875,
+              "lng": 833,
+              "id": "ID_cb1878fb0beb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_d88a68fb8a49"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 30.71875,
+              "lng": 479,
+              "id": "ID_2bd9dbba1899",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_f8fa486aaa7b"
+              }
+            },
+            {
+              "lat": 28.71875,
+              "lng": 163,
+              "id": "ID_b9496a0a796a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_8bd86878489a"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 32,
+              "lng": 538,
+              "id": "ID_aa48899aba8b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_693a4a89a98a"
+              }
+            },
+            {
+              "lat": 524.71875,
+              "lng": 173,
+              "id": "ID_896939387af9",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_8a08287a5898"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 100.71875,
+              "lng": 507,
+              "id": "ID_3a194b693b98",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_487809abb9b8"
+              }
+            },
+            {
+              "lat": 378.71875,
+              "lng": 505,
+              "id": "ID_9bb9daa92b0b",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_daeba8797bd9"
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Tournaments/Toms/Games/Grut/Grut.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Event",
+      "iconName": "angle-double-down",
+      "color": "#96274e",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Throw",
+      "iconName": "map-marker",
+      "color": "#240e95",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Score",
+      "iconName": "map-marker-alt",
+      "color": "#21a31f",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "D",
+      "iconName": "angle-down",
+      "color": "#927d11",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "O Turn",
+      "iconName": "sad-cry",
+      "color": "#317187",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 0,
+  "long": 0,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "450px",
+    "image": "[[Pitch.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Pitch.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 18,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "grut_o_scores",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        640,
+        1000
+      ]
+    ],
+    "width": "100%",
+    "lat": 320,
+    "long": 500,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
