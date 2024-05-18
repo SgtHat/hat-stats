@@ -1,3 +1,5 @@
+If you want to just read through the points play by play then you can just navigate through the folder in github but for a more indepth view and to be able to see graphs and tables, follow the below:<br /><br />
+
 To use this notebook, firstly download and install Obsidian from https://obsidian.md/ an account is not required. <br />
 Then download the contents of this repository and put it wherever you like on your PC.<br />
 Open obsidian and click on "Open Folder as vault"<br />
